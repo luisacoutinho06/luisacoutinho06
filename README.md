@@ -1,4 +1,4 @@
-### <div align="center"> Olá, eu sou a Luisa Coutinho! 👋</div>
+### <div align="center"> Olá, eu sou a Luisa! 👋</div>
 
 <div align="center">
 <div> 
@@ -8,9 +8,11 @@
 </div>
 <br>
 
- **🔭 Atualmente sou estagiária de desenvolvimento de software (fullstack)**! 
+**📚 Estudando ASP.NET C#, HTML, CSS, JavaScript e banco de dados SQL Server**
 <br>
-**🌱 Estudando ASP.NET C#, HTML, CSS, JavaScript e banco de dados SQL Server**.
+**🔭 Atualmente sou estagiária de desenvolvimento fullstack**! 
+<br>
+**🎓 Análise e desenvolvimento de sistemas 2º/5º - PUC MINAS**
   
   
 ##
