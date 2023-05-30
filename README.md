@@ -8,10 +8,12 @@
 </div>
 <br>
 
- 🔭 Atualmente sou estagiária de desenvolvimento de software **(fullstack)**!
- 🌱 Estudando **ASP.NET C#, HTML, CSS, JavaScript e banco de dados SQL Server**.
+ **🔭 Atualmente sou estagiária de desenvolvimento de software (fullstack)**! 
+<br>
+**🌱 Estudando ASP.NET C#, HTML, CSS, JavaScript e banco de dados SQL Server**.
+  
+  
 ##
-
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Luisa-Csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
