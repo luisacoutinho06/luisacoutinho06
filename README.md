@@ -23,7 +23,12 @@
 </div>
 <br>
 
-![Luisa GitHub stats](https://github-readme-stats.vercel.app/api?username=luisacoutinho06&show_icons=true&theme=dracula&count_private=true)</div>
+<div align="center">
+  <a href="https://github.com/davidluiz91">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisacoutinho06&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisacoutinho06&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+</div>
 
 <div align="center">
   
