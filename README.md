@@ -24,3 +24,9 @@
 <br>
 
 ![Luisa GitHub stats](https://github-readme-stats.vercel.app/api?username=luisacoutinho06&show_icons=true&theme=dracula&count_private=true)</div>
+
+<div align="center">
+  
+  ![snake gif](https://github.com/luisacoutinho06/luisacoutinho06/blob/output/github-contribution-grid-snake.svg) 
+
+</div>
