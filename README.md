@@ -8,8 +8,8 @@
 </div>
 <br>
 
-- 🔭 Atualmente sou estagiária de desenvolvimento de software **(fullstack)**!
-- 🌱 Estudando **ASP.NET C#, HTML, CSS, JavaScript e banco de dados SQL Server**.
+ 🔭 Atualmente sou estagiária de desenvolvimento de software **(fullstack)**!
+ 🌱 Estudando **ASP.NET C#, HTML, CSS, JavaScript e banco de dados SQL Server**.
 ##
 
  
