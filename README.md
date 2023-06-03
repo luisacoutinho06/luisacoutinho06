@@ -10,7 +10,7 @@
 
 **📚 Estudando ASP.NET C#, HTML, CSS, JavaScript e banco de dados SQL Server**
 <br>
-**🔭 Atualmente sou estagiária de desenvolvimento fullstack**! 
+**🔭 Atualmente sou estagiária de desenvolvimento de sistemas fullstack**! 
 <br>
 **🎓 Análise e desenvolvimento de sistemas 2º/5º - PUC MINAS**
   
