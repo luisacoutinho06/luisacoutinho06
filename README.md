@@ -12,7 +12,7 @@
 <br>
 **🔭 Atualmente sou estagiária de desenvolvimento de sistemas fullstack**! 
 <br>
-**🎓 Análise e desenvolvimento de sistemas 2º/5º - PUC MINAS**
+**🎓 Análise e desenvolvimento de sistemas 3º/5º - PUC MINAS**
   
   
 ##
