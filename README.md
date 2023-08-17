@@ -8,9 +8,7 @@
 </div>
 <br>
 
-**📚 Estudando ASP.NET C#, HTML, CSS, JavaScript e banco de dados SQL Server**
-<br>
-**🔭 Atualmente sou estagiária de desenvolvimento de sistemas fullstack**! 
+**📚 ASP.NET C#, HTML, CSS, JavaScript e banco de dados SQL Server**
 <br>
 **🎓 Análise e desenvolvimento de sistemas 3º/5º - PUC MINAS**
   
