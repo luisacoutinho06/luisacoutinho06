@@ -10,7 +10,9 @@
 
 **📚 ASP.NET C#, HTML, CSS, JavaScript e banco de dados SQL Server**
 <br>
-**🎓 Análise e desenvolvimento de sistemas 3º/5º - PUC MINAS**
+**🎓 Análise e desenvolvimento de sistemas 4º/5º - PUC MINAS**
+<br>
+**💻 FullStack Developer**
   
   
 ##
