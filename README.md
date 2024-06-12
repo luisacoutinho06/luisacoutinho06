@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/luisacoutinho06/7efd592a9af89996606f205e93100566/raw/095ab6263a4d5b1f642130394dafb4682c563ba2/githubcard.svg"/>
 <div align="center"><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luisa Coutinho</h1></div>
 
 <div align="center">
