@@ -15,9 +15,7 @@
 
 <br>
 
-**📚 ASP.NET C#, HTML, CSS, JavaScript, Python, React, React native e banco de dados SQL Server e MongoDB!**
-<br>
-**🎓 Análise e desenvolvimento de sistemas - 5º período - PUC MINAS**
+**📚 ASP.NET C#, HTML, CSS, JavaScript, Python, React, React native SQL Server and MongoDB!**
 <br>
 **💻 FullStack Developer!**
 
