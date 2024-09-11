@@ -6,13 +6,15 @@
 </div>
 
 <div align="center">
-      📚 ASP.NET C#, HTML, CSS, JavaScript, Python, React, React native SQL Server and MongoDB!
+   <h4>
+      📚 ASP.NET C#, HTML, CSS, JavaScript, Python, React, React Native, SQL Server and MongoDB!
    <br>
    <br>
       💻 FullStack Developer!
    <br>
    <br>
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;My+contacts+are+below!;Give+me+a+star!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+      </h4>
 </div>
 
  <div align="center"> 
