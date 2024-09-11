@@ -31,7 +31,7 @@
 
 
 <div align="center">
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>  Technologies that i know  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
+<h2><img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="30"/> Technologies that i know <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="30"/></h2>
    <br>
   <div style="display: inline_block"><br>
   <img align="center" alt="Luisa-Csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
