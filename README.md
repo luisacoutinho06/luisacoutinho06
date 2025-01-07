@@ -10,7 +10,7 @@
       📚 ASP.NET C#, HTML, CSS, JavaScript, Python, React, React Native, SQL Server and MongoDB!
    <br>
    <br>
-      🙋🏽‍♀️ I’m 22 years old and I’m Brazilian!
+      🙋🏽‍♀️ I’m 23 years old and I’m Brazilian!
    <br>
    <br>
       💻 I work as a FullStack Developer!
