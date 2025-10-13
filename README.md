@@ -6,57 +6,63 @@
 </div>
 
 <div align="center">
-   <h4>
-      📚 ASP.NET C#, HTML, CSS, JavaScript, Python, React, React Native, SQL Server and MongoDB!
    <br>
-   <br>
-      🙋🏽‍♀️ I’m 23 years old and I’m Brazilian!
-   <br>
-   <br>
-      💻 I work as a FullStack Developer!
-   <br>
+      <p> 💻 I work as a FullStack Developer! <p/>
    <br>
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;My+contacts+are+below!;Give+me+a+star!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-      </h4>
+
+   <div align="center">
+     <a href="https://www.instagram.com/luisasct/?hl=en" target="_blank">
+       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+     </a>
+     <a href="mailto:luisacoutinho06@gmail.com">
+       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+     </a>
+     <a href="https://www.linkedin.com/in/luisacoutinho6/" target="_blank">
+       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+     </a>
+   </div>
+   
 </div>
 
- <div align="center"> 
-  <a href="https://www.instagram.com/luisasct/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luisacoutinho06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luisacoutinho6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<br/>
+<br/>
+<br/>
+<br/>
+
+I'm a passionate **FullStack Developer** from **Brazil**.  
+I love creating **clean, scalable, and interactive applications**, including **web apps, Windows desktop apps, and mobile apps**.
+
+**Interests:**  
+- ☕ Coffee & 🍵 Tea  
+- 🎮 Video games  
+- 💡 Learning new technologies  
+- 💬 Collaborating on innovative projects  
+
+I’m always excited to explore new tools, frameworks, and ideas to **improve user experience** and **boost development efficiency**.
+
+<br/>
+
+## 🛠 Technologies I Know
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=luisacoutinho06&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--profile visit count-->
-
-
-<div align="center">
-<h2><img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="30"/> Technologies that i know <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="30"/></h2>
-   <br>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Luisa-Csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Luisa-Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img align="center" alt="Luisa-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img align="center" alt="Luisa-REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Luisa-ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Luisa-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Luisa-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Luisa-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Luisa-Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-  <img align="center" alt="Luisa-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img align="center" alt="Luisa-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
-  <img align="center" alt="Luisa-Bootsrapper" src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <a href="https://github.com/luisacoutinho06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisacoutinho06&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisacoutinho06&show_icons=true&theme=github_dark&include_all_commits=true"/>
 </div>
-</div>
+
