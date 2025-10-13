@@ -30,8 +30,8 @@
 <br/>
 <br/>
 
-I'm a passionate **FullStack Developer** from **Brazil**.  
-I love creating **clean, scalable, and interactive applications**, including **web apps, Windows desktop apps, and mobile apps**.
+I'm a passionate **fullstack developer** from **Brazil**.  
+I love creating **clean, scalable, and interactive applications**, including **web apps, windows desktop apps, and mobile apps**.
 
 **Interests:**  
 - ☕ Coffee & 🍵 Tea  
