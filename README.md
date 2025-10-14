@@ -12,9 +12,6 @@
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;My+contacts+are+below!;Give+me+a+star!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 
    <div align="center">
-     <a href="https://www.instagram.com/luisasct/?hl=en" target="_blank">
-       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-     </a>
      <a href="mailto:luisacoutinho06@gmail.com">
        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
      </a>
